@@ -31,7 +31,7 @@
     "jsdom": "^22.1.0",
     "local-web-server": "^5.3.3",
     "lodash": "^4.17.21",
-    "marked": "^12.0.0",
+    "marked": "^15.0.3",
     "morgan": "^1.10.0",
     "node-cron": "^3.0.3",
     "node-plop": "^0.31.0",
